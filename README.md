@@ -1,4 +1,4 @@
-# FCM Push Notification 
+# Github Issues Page 
 
 # JavaScript Stack 
 
@@ -27,16 +27,7 @@ This is a boilerplate project using the following technologies:
 npm install
 
 
-## Running
-
- 
-Production mode:
-
-```shell
-npm start
-```
-
-Development (Webpack dev server) mode:
+Development (Webpack and dev server) mode:
 
 ```shell
 run 
