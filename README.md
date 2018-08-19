@@ -14,8 +14,9 @@
 # React-redux boilerplate , Github API  && React octicon
 
 This is a boilerplate project using the following technologies:
-- [React](https://facebook.github.io/react/) and [React Router](https://reacttraining.com/react-router/) for the frontend
-- [Express](http://expressjs.com/) and [Mongoose](http://mongoosejs.com/) for the backend
+- [React](https://facebook.github.io/react/) , [React Router](https://reacttraining.com/react-router/) and [Redux](https://redux.js.org/) for the frontend
+- [Express](http://expressjs.com/) 
+- [Github Api](https://developer.github.com/v3/)
 - [Webpack](https://webpack.github.io/) for compilations
 
 ## Requirements
