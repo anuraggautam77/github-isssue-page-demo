@@ -1,0 +1,29 @@
+.detail-page{
+    .avtar-container{
+        padding: 0;
+        margin: 0;
+        width: 4%;
+        float: left;
+        .avatar{
+            display: inline-block;
+            overflow: hidden;
+            line-height: 1;
+            vertical-align: middle;
+            border-radius: 3px;
+            height: 40px;
+            width: 40px;
+        }  
+    }
+    .panel-heading {
+        padding: 5px 10px;
+    } 
+    .panel{
+        border-radius: 0px !important;
+    }
+    .issue-heading{
+        margin-bottom:25px;
+        .panel-body{
+            border-bottom: 1px solid #dddddd;
+        }
+    }
+}
