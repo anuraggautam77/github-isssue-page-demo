@@ -35,6 +35,11 @@ run
 2) npm start 
  
 ```
+ ## Issue Listing Page
+![listing page](https://user-images.githubusercontent.com/1465967/44463151-74a0b700-a634-11e8-9687-74fd5909cdaa.PNG)
+
+ ## Issue Detail Page
+![detail page](https://user-images.githubusercontent.com/1465967/44463147-723e5d00-a634-11e8-96f0-c4d19b1cf388.png)
 
  ## Credits
 
