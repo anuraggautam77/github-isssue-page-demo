@@ -1,5 +1,5 @@
 import axios from 'axios';
-const githuburl = "https://api.github.com/repos/webpack-contrib/mini-css-extract-plugin";
+const githuburl = "https://api.github.com/repos/anuraggautam77/github-isssue-page-demo";
 const accessKey = 'Bearer 7769f343f6345793852dd270a9714a8a2feafbde';
 
 export function repoDetails() {
