@@ -18,7 +18,7 @@
     "css-loader": "^0.28.5",
     "es6-promise": "^4.2.4",
     "express": "^4.16.3",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.17",
     "moment": "^2.22.1",
     "npm-install-all": "^1.1.21",
     "react": "^16.2.0",
